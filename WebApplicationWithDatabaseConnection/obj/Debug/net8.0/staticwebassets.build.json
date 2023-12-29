@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WqbQTp4iK/BptCqRl3dNlldlwkhpH6qGSciJjMopqRo=",
+  "Source": "WebApplicationWithDatabaseConnection",
+  "BasePath": "_content/WebApplicationWithDatabaseConnection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
